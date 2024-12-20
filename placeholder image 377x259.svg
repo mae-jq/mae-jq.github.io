@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="99.862923mm"
+   height="68.519295mm"
+   viewBox="0 0 99.862923 68.519295"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="placeholder image.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3843855"
+     inkscape:cx="219.59201"
+     inkscape:cy="132.54978"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="181.06905"
+       y="227.29401"
+       width="175.70592"
+       height="81.723686"
+       id="rect3" />
+    <rect
+       x="171.91743"
+       y="235.48354"
+       width="316.38586"
+       height="99.683212"
+       id="rect2" />
+    <rect
+       x="216.70264"
+       y="197.92175"
+       width="421.84781"
+       height="190.69832"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.00578,-20.860734)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="white-space:pre;shape-inside:url(#rect1);display:inline;fill:#ffd42a;stroke:#ffd42a;stroke-width:9.76252;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2"
+       style="white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000;stroke:none;stroke-width:9.76252;stroke-linecap:round;stroke-linejoin:round" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:2.583;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4"
+       width="96.706566"
+       height="67.083008"
+       x="31.916985"
+       y="34.783783"
+       ry="1.1467181" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:2.583;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5"
+       width="8.6003866"
+       height="12.040541"
+       x="110.08494"
+       y="34.783783"
+       ry="1.1467181" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:2.583;stroke-linecap:round;stroke-linejoin:round"
+       id="rect6"
+       width="81.990341"
+       height="61.062737"
+       x="26.756756"
+       y="40.804054"
+       ry="1.1467181" />
+    <g
+       id="g7"
+       transform="translate(23.784997,-10.811362)">
+      <text
+         xml:space="preserve"
+         transform="scale(0.26458333)"
+         id="text3"
+         style="font-size:24px;text-align:center;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#000000;stroke:none;stroke-width:9.76252;stroke-linecap:round;stroke-linejoin:round"
+         x="60.087891"
+         y="0"><tspan
+           x="208.125"
+           y="249.19085"
+           id="tspan2"><tspan
+             style="font-family:Cambria;-inkscape-font-specification:Cambria"
+             id="tspan1">Placeholder </tspan></tspan><tspan
+           x="237.4043"
+           y="279.41882"
+           id="tspan5"><tspan
+             style="font-family:Cambria;-inkscape-font-specification:Cambria"
+             id="tspan4">Image</tspan></tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.583;stroke-linecap:round;stroke-linejoin:round"
+         id="rect7"
+         width="97.279922"
+         height="65.936295"
+         x="22.512283"
+         y="32.963596"
+         ry="1.1467181" />
+    </g>
+  </g>
+</svg>
